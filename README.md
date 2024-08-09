@@ -2,6 +2,9 @@ proteus-lucky-turntable
 =======================
 Based on [Electronic Lucky Turntable](https://bennuhp.blogspot.com/2019/08/blog-post.html)
 
+![](docs/20240809_220340_HDR.jpg)
+![](docs/20240809_220413_HDR.jpg)
+
 ### Components
 - CD4017
   - [datasheet](docs/4017-ic-datasheet.pdf)
